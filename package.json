@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "build": " npm run build",
+    "build": " nodemon app.js",
     "start": "node index.js"
   },
   "author": "Abdelnaby",
