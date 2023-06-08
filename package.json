@@ -4,8 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "build": " nodemon app.js",
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "author": "Abdelnaby",
   "license": "ISC",
